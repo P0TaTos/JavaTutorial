@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch.2 overloading/ch.2 overloading.iml" filepath="$PROJECT_DIR$/ch.2 overloading/ch.2 overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch.3 interface/ch.3 interface.iml" filepath="$PROJECT_DIR$/ch.3 interface/ch.3 interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch.4 javaDataType/ch.4 javaDataType.iml" filepath="$PROJECT_DIR$/ch.4 javaDataType/ch.4 javaDataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch.5 thread/ch.5 thread.iml" filepath="$PROJECT_DIR$/ch.5 thread/ch.5 thread.iml" />
     </modules>
   </component>
 </project>

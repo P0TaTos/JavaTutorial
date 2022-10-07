@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaTutorial.iml" filepath="$PROJECT_DIR$/JavaTutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch.1 extends/ch.1.iml" filepath="$PROJECT_DIR$/ch.1 extends/ch.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch.2 overloading/ch.2 overloading.iml" filepath="$PROJECT_DIR$/ch.2 overloading/ch.2 overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch.3 interface/ch.3 interface.iml" filepath="$PROJECT_DIR$/ch.3 interface/ch.3 interface.iml" />
     </modules>
   </component>
 </project>

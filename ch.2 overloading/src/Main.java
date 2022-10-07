@@ -13,5 +13,7 @@ public class Main {
         newClass.overloadMethod(integer);
         newClass.overloadMethod(string);
         newClass.overloadMethod(string,integer);
+
+        scanner.close();
     }
 }

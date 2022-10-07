@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaTutorial.iml" filepath="$PROJECT_DIR$/JavaTutorial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ch.1/ch.1.iml" filepath="$PROJECT_DIR$/ch.1/ch.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch.1 extends/ch.1.iml" filepath="$PROJECT_DIR$/ch.1 extends/ch.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch.2 overloading/ch.2 overloading.iml" filepath="$PROJECT_DIR$/ch.2 overloading/ch.2 overloading.iml" />
     </modules>
   </component>
 </project>
